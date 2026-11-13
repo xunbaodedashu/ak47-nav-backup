@@ -1,0 +1,24 @@
+{
+  "version": "1.3.0",
+  "releaseDate": "2026-11-05",
+  "notes": "本次更新内容……",
+  "channel": "stable",
+
+  "downloads": [
+    {
+      "name": "github",
+      "url": "https://github.com/<用户名>/<仓库>/releases/download/v1.3.0/<安装包>.apk"
+    },
+    {
+      "name": "gitcode",
+      "url": "https://gitcode.com/<用户名>/<仓库>/releases/download/v1.3.0/<安装包>.apk"
+    },
+    {
+      "name": "ghproxy",
+      "url": "https://ghfast.top/https://github.com/<用户名>/<仓库>/releases/download/v1.3.0/<安装包>.apk"
+    }
+  ],
+
+  "apkUrl": "https://gitcode.com/<用户名>/<仓库>/releases/download/v1.3.0/<安装包>.apk",
+  "homepage": "https://gitcode.com/<用户名>/<仓库>"
+}
